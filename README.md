@@ -4,12 +4,12 @@
 <br>pkg update && upgrade
 <br>pkg install git
 <br>pkg install php
-<br>git clone https://github.com/herutok/GOJEKHEMAT.git
-<br>cd GOJEKHEMAT
+<br>git clone https://github.com/edococacola/fufufu.git
+<br>cd fufufu
 
 <br>Untuk Menjalankan Script :
-<br>php herutok.php
+<br>php fufufu.php
 
 <br>Untuk proses selanjutnya cukup ketik:
-<br>cd GOJEKHEMAT
-<br>php herutok.php
+<br>cd fufufu
+<br>php fufufu.php
